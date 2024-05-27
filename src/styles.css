@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+    background-color: white; /* Light gray background for the whole page */
+    display: flex;
+    flex-direction: column; /* Arrange elements vertically */
+    align-items: center;   /* Center items horizontally */
+    min-height: 100vh;     /* Ensure full viewport height */
+  }
+  
+  h1 {
+    text-align: center; /* Center the title */
+    margin-bottom: 20px;
+  }
+  
+  .configurator-container {
+    display: flex; /* Use flexbox for layout */
+    align-items: center;
+    gap: 10px;  /* Add some space between the canvas and the picker */
+    width: 95vw;
+    height: 80vh;
+  }
+  
+  .color-picker {
+    /* Style the color picker container if needed */
+  }
+  

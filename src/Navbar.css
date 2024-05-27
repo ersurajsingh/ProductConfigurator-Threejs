@@ -1,0 +1,30 @@
+/* Navbar.css */
+.navbar {
+    position: fixed; /* Stay at the top even when scrolling */
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff; /* White background */
+    padding: 15px;
+    display: flex;
+    justify-content: space-between; /* Title left, button right */
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    z-index: 10; /* Ensure the navbar is above other content */
+  }
+  
+  .navbar-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .upload-button {
+    background-color: #007bff; /* Blue button */
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 20px; 
+  }
+  
