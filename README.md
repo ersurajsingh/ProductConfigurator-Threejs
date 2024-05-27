@@ -22,6 +22,6 @@ Customize the look and feel of products with this interactive 3D configurator. E
 
 See the configurator in action:
 
-[Live Demo Link (if available)](https://your-demo-url.com)  
-[![Product Configurator Demo](https://your-demo-gif-or-image-url.com)]
+[Live Demo Link ](https://yourproduct.netlify.app/)  
+[![Product Configurator Demo](https://yourproduct.netlify.app/)]
 
